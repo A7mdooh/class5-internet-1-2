@@ -90,35 +90,35 @@ function clearStatusClass(element) {
 }
 const questions = [
   {
-    question: 'حدد الشبكة المناسبة لكل حالة، هل هي LAN أم WAN؟ (مركز مصادر التعلم)',
+    question: '(مركز مصادر التعلم)',
     answers: [
       { text: 'LAN', correct: true },
       { text: 'WAN', correct: false }
     ]
   },
   {
-    question: 'حدد الشبكة المناسبة لكل حالة، هل هي LAN أم WAN؟ (مطبخ)',
+    question: ' ؟ (مصرف)',
     answers: [
       { text: 'LAN', correct: true },
       { text: 'WAN', correct: false }
     ]
   },
   {
-    question: 'حدد الشبكة المناسبة لكل حالة، هل هي LAN أم WAN؟ (وكالة ناسا)',
+    question: ' (وكالة ناسا)',
     answers: [
       { text: 'LAN', correct: false },
       { text: 'WAN', correct: true }
     ]
   },
   {
-    question: 'حدد الشبكة المناسبة لكل حالة، هل هي LAN أم WAN؟ (مستشفى)',
+    question: '(مستشفى)',
     answers: [
       { text: 'LAN', correct: true },
       { text: 'WAN', correct: false }
     ]
   },
   {
-    question: 'حدد الشبكة المناسبة لكل حالة، هل هي LAN أم WAN؟ (محطة فضاء)',
+    question: '(محطة فضاء)',
     answers: [
       { text: 'LAN', correct: false },
       { text: 'WAN', correct: true }
@@ -139,7 +139,7 @@ const questions = [
     ]
   },
   {
-    question: 'تغطي شبكات المدارس التي تربط الفصول الدراسية داخل نفس المبنى شبكات منطقة محلية.',
+    question: 'تعتبر شبكات المدارس التي تربط الفصول الدراسية داخل نفس المبنى شبكات منطقة محلية.',
     answers: [
       { text: 'صحيحة', correct: true },
       { text: 'خاطئة', correct: false }
