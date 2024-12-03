@@ -99,8 +99,8 @@ const questions = [
   {
     question: ' ؟ (مصرف)',
     answers: [
-      { text: 'LAN', correct: true },
-      { text: 'WAN', correct: false }
+      { text: 'LAN', correct: false },
+      { text: 'WAN', correct: true }
     ]
   },
   {
